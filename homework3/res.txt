@@ -1,0 +1,1 @@
+{peer:('napkin', 'peer'), ('peer',)}{bread:('bread',)}{milk:('milk',)}{napkin:('bread',)}{peer:('napkin', 'peer'), ('peer',)}{peer:('napkin', 'peer'), ('peer',)}{bread:('bread',)}{milk:('milk',)}{napkin:('bread',)}
